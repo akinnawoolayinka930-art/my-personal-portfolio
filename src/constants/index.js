@@ -100,7 +100,6 @@ const experiences = [
     date: 'Jun 2024 - Present',
     points: [
       'Built and maintained DEV environment from scratch to support QA automation, ensuring isolation from development workflows and improving release reliability.',
-      'Acted as Release Manager for multiple critical releases, coordinating deployments, validations, and rollback readiness across environments.',
       'Designated as Local DevOps Champion for the team; drove adoption of Jenkins, Docker, and Kubernetes through internal enablement and hands-on support.',
       'Developed and maintained internal applications including CDUS, contributing to both feature development and production support.',
       'Led MQ migration as part of Project Commission, ensuring minimal disruption and compliance with enterprise standards.',
@@ -116,25 +115,13 @@ const experiences = [
     iconBg: '#E6DEDD',
     date: 'Jun 2023 - May 2024',
     points: [
-      'Developed an Full Stack Website using Bubble.io for the company.',
+      'Developed an Full Stack Website using gamemonetize for the company.',
       "I undertook the responsibility of designing, developing, and testing individual modules, and worked on building a financial database for Equity Market with the functionalities for managing users' portfolios.",
       'I developed statistical models leveraging deep learning techniques on historical data to enhance portfolio returns. ',
-      'Tech Stack: Python, REST API, Tensorflow, Bubble.io, MS Excel.',
+      'Tech Stack: Python, REST API, Tensorflow,MS Excel.',
     ],
   },
-  {
-    title: 'Machine Learning Intern',
-    company_name: 'Suvidha Foundation',
-    icon: suvidha,
-    iconBg: '#383E56',
-    date: 'Feb 2023 - Mar 2023',
-    points: [
-      'I undertook a project centered on leveraging Natural Language Processing (NLP) to address the task of summarizing interconnected documents.',
-      'By utilizing Python and libraries such as NLTK, I developed algorithms that could comprehend and condense the content while retaining its essential meaning.',
-      'This tool had potential applications in various domains, including creating insightful summaries of articles on specific subjects.',
-      'Tech Stack: Python, NLP, Tensorflow.',
-    ],
-  },
+ 
 ];
 
 const technologies = [
@@ -147,20 +134,12 @@ const technologies = [
     icon: java,
   },
   {
-    name: 'SQL',
-    icon: mysql,
-  },
-  {
     name: 'JavaScript',
     icon: javascript,
   },
   {
     name: 'React',
     icon: reactjs,
-  },
-  {
-    name: 'Tailwind CSS',
-    icon: tailwind,
   },
   {
     name: 'Spring Boot',

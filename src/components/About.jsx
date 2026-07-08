@@ -64,12 +64,12 @@ const About = () => {
 
       {/* Description */}
       <div className="mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]">
-        I am a software engineer with hands-on experience in Javascript, 
-         and applied AI. My work spans building internal platforms,
-        automating environments and releases, and developing AI-driven tools
-        such as chatbots and intelligent data utilities. I focus on creating
-        reliable, scalable systems with clear ownership, strong fundamentals,
-        and real-world impact.
+        I am a software engineer with hands-on experience in Javascript, and
+        applied AI. My work spans building internal platforms, automating
+        environments and releases, and developing AI-driven tools such as
+        chatbots and intelligent data utilities. I focus on creating reliable,
+        scalable systems with clear ownership, strong fundamentals, and
+        real-world impact.
         <div className="mt-5 flex flex-wrap gap-3">
           {profileLinks.map((profile, index) => (
             <ProfileCard key={index} {...profile} />

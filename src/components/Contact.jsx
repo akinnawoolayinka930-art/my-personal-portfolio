@@ -132,7 +132,9 @@ const Contact = () => {
                 <h4 className="text-white text-xs uppercase tracking-wide">
                   Location
                 </h4>
-                <p className="text-secondary text-sm mt-1">chicago, united states</p>
+                <p className="text-secondary text-sm mt-1">
+                  chicago, united states
+                </p>
               </div>
             </div>
           </div>

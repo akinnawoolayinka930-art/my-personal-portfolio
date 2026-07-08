@@ -10,10 +10,8 @@ import {
   git,
   java,
   javascript,
-  mysql,
   python,
   reactjs,
-  tailwind,
   docker,
   ansible,
   jenkins,
@@ -21,7 +19,6 @@ import {
   linux,
   springboot,
   gochanakya,
-  suvidha,
   bnp,
 } from '../assets';
 
@@ -121,7 +118,6 @@ const experiences = [
       'Tech Stack: Python, REST API, Tensorflow,MS Excel.',
     ],
   },
- 
 ];
 
 const technologies = [
